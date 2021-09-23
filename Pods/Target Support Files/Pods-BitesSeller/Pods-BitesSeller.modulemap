@@ -1,0 +1,6 @@
+framework module Pods_BitesSeller {
+  umbrella header "Pods-BitesSeller-umbrella.h"
+
+  export *
+  module * { export * }
+}
